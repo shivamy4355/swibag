@@ -28,10 +28,10 @@
 ##print(x)
 #fact(int(input))
 #conntecting github
-import requests
-import pprint as pprint
-r=requests.get("http://localhost:44314")
-pprint(r.text)
+#import requests
+#import pprint as pprint
+#r=requests.get("http://localhost:44314")
+#pprint(r.text)
 #r
 #web scrapping  in python
 #import bs4 as bs
